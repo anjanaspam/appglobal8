@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="switch1" label="Switch1" language="en" table="switch">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>switch1</element>
+            <help/>
+            <hint/>
+            <label>Switch1</label>
+            <language>en</language>
+            <name>switch</name>
+            <plural>Switch1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-13 17:22:24</sys_created_on>
+            <sys_id>1e17cc125377101071a3ddeeff7b129f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Switch1</sys_name>
+            <sys_package display_value="appglobal8" source="07b608125377101071a3ddeeff7b128c">07b608125377101071a3ddeeff7b128c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="appglobal8">07b608125377101071a3ddeeff7b128c</sys_scope>
+            <sys_update_name>sys_documentation_switch_switch1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-13 17:22:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
